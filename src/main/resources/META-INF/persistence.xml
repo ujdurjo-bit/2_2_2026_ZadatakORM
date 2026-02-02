@@ -6,8 +6,8 @@
     <!--CTRL + SHIFT + O Import dependencija-->
     <!--CTRL + SHIFT + I Import dependencija-->
     <persistence-unit name="library" transaction-type="RESOURCE_LOCAL">
-      <class>org.example.model.Author</class>
-      <class>org.example.model.Book</class>
+      <class>org.example.model.Meal</class>
+      <class>org.example.model.Ingredients</class>
 
 
 <properties>
